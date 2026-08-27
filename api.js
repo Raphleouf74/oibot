@@ -8,7 +8,7 @@ app.use(express.json());
 // Exemple de config du bot
 let botConfig = {
   prefix: "!",
-  welcomeMessage: "Bienvenue sur MoodshareBot ⃞⃝!"
+  welcomeMessage: "bienvenue sur oibot!"
 };
 
 // GET status

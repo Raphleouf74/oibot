@@ -1,7 +1,7 @@
 
 Write-Host ""
 Write-Host "=============================="
-Write-Host "    MoodShare Push Manager    "
+Write-Host "    oifeel Push Manager    "
 Write-Host "=============================="
 Write-Host ""
 
