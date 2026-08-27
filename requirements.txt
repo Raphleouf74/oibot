@@ -4,3 +4,4 @@ flask-cors
 discord.py
 PyNaCl
 cffi
+audioop-lts
